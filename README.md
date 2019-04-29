@@ -1,6 +1,6 @@
 # DangerousLinks
 
-The goal of this project is develope and test machine learning models that could be used to determine if a site is malicious based off its URL and WHOIS information.
+The goal of this project is to develop and test machine learning models that could be used to determine if a site is malicious based off its URL and WHOIS information.
 
 Datasets Used: https://www.unb.ca/cic/datasets/url-2016.html
 
