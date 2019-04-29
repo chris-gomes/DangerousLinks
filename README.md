@@ -7,10 +7,10 @@ Datasets Used: https://www.unb.ca/cic/datasets/url-2016.html
 Python Library for WHOIS: https://pypi.org/project/whois/#description
 
 Publications Referenced for Feature Extraction:
-  1. https://cseweb.ucsd.edu/~voelker/pubs/mal-url-kdd09.pdf
-  2. https://ieeexplore.ieee.org/document/6691627
-  3. https://archive.ics.uci.edu/ml/datasets/Phishing+Websites#
-  4. https://link.springer.com/chapter/10.1007/978-3-319-46298-1_30#Sec6
+* https://cseweb.ucsd.edu/~voelker/pubs/mal-url-kdd09.pdf
+* https://ieeexplore.ieee.org/document/6691627
+* https://archive.ics.uci.edu/ml/datasets/Phishing+Websites#
+* https://link.springer.com/chapter/10.1007/978-3-319-46298-1_30#Sec6
 
 Structure of Directory:
 * feature_extraction.py - the script that was run to create the engineered features that were used in the models
