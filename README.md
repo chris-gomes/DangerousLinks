@@ -1,4 +1,4 @@
-# DangerousLinks
+# Dangerous Links
 
 The goal of this project is to develop and test machine learning models that could be used to determine if a site is malicious based off its URL and WHOIS information.
 
